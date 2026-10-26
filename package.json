@@ -1,0 +1,15 @@
+{
+  "name": "claude-desktop-code-cowork-zh-cn",
+  "version": "3.6556.2-zh.1",
+  "private": true,
+  "type": "module",
+  "description": "Unofficial Chinese localization patch for Claude Desktop Code and Cowork",
+  "license": "MIT",
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@formatjs/icu-messageformat-parser": "^3.5.22",
+    "acorn": "^8.19.0"
+  }
+}
